@@ -1,0 +1,20 @@
+{
+  "name": "browsers-yaml",
+  "version": "0.0.1",
+  "description": "Browser list used for GoInstant test suites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goinstant/browsers-yaml.git"
+  },
+  "author": "",
+  "license": "",
+  "readmeFilename": "README.md",
+  "gitHead": "5d3a17ca5fa23eb13a4011c439c0a1c7d145cde5",
+  "bugs": {
+    "url": "https://github.com/goinstant/browsers-yaml/issues"
+  }
+}
